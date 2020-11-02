@@ -1,1 +1,5 @@
-# RFCI-FE-AriniMauluddina
+## Installation
+
+```bash
+node index.js
+```
